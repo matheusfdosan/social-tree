@@ -1,4 +1,4 @@
-# Social Tree
+<h1 align="center"> Social Tree </h1>
 
 <p align="center">
   Neste desafio você deve criar uma página com uma lista de links que pode ser usada em perfis de redes sociais.
@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Meu próprio portifólio. Veja ele clicando nesse [link](https://matheusfdosan.github.io/desafio-social-tree-rocketseat/).
+Meu próprio portifólio. Veja ele clicando nesse [link](https://matheusfdosan.github.io/social-tree/).
 
 ## 🔖 Layout
 
