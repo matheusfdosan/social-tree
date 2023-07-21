@@ -1,7 +1,7 @@
 <h1 align="center"> Social Tree </h1>
 
 <p align="center">
-  Neste desafio você deve criar uma página com uma lista de links que pode ser usada em perfis de redes sociais.
+  Uma página com uma lista de links que pode ser usada em perfis de redes sociais.
 </p>
 
 <p align="center">
